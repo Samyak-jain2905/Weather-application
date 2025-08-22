@@ -24,4 +24,7 @@ Technologies Used:
 - A Servlet Container like Tomcat
 - OpenWeatherMap API
 
-  
+<img width="1876" height="1017" alt="Screenshot 2025-08-22 125058" src="https://github.com/user-attachments/assets/8d5f444f-9d10-4c0a-be3a-814d1a84443d" />
+
+  <img width="1919" height="1006" alt="Screenshot 2025-08-22 125139" src="https://github.com/user-attachments/assets/4ed29f36-e947-4948-9f21-488bd7a81c41" />
+
